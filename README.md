@@ -1,5 +1,6 @@
 # ASIST2024-ChatGPT-Disinformation-Policy
 Are Prompts All You Need?: Chatting with ChatGPT onDisinformation Policy Understanding
+
 Presented at the **87th Annual Meeting of the Association for Information Science & Technology (ASIS&T), Calgary, Canada, Oct. 25 – 29, 2024**.
 
 [![Read the Paper](https://www.researchgate.net/publication/384950923_Are_Prompts_All_You_Need_Chatting_with_ChatGPT_on_Disinformation_Policy_Understanding)](https://www.researchgate.net/publication/384950923_Are_Prompts_All_You_Need_Chatting_with_ChatGPT_on_Disinformation_Policy_Understanding)
